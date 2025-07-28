@@ -5,6 +5,8 @@ veröffentlicht unter der **BSD 3‑Clause License**.
 
 Der vollständige Lizenztext ist in der Datei `LICENSE` enthalten.
 
+## 🔗 Ursprüngliches README von Scrimba
+(Der folgende Teil stammt unverändert aus dem Original-Repo und dient nur als Referenz.)
 
 ## Welcome to [Learn React](https://scrimba.com/learn-react-c0e)
 
