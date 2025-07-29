@@ -10,7 +10,18 @@ const root = createRoot(document.getElementById("root"))
  * 
  * Render the Page component.
  */
-
+function PageComponent() {
+    return(
+        <div>
+            <ul>
+                <li>Bla</li>
+                <li>Bli</li>
+                <li>Blub</li>
+                <li>Its React!</li>
+            </ul>
+        </div>
+    )
+}
 root.render(
-    
+    <PageComponent s/>
 )
